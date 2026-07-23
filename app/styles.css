@@ -1,9 +1,9 @@
 :root {
-	--bg: yellow;
-	--panel: pink;
-	--line: blue;
-	--line-dim: red;
-	--text: #b8ffce;
+	--bg: red;
+	--panel: blue;
+	--line: white;
+	--line-dim: black;
+	--text: orange;
 	--text-strong: #e4ffe8;
 }
 
