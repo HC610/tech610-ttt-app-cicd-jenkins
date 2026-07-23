@@ -1,8 +1,8 @@
 :root {
-	--bg: red;
-	--panel: blue;
-	--line: white;
-	--line-dim: black;
+	--bg: white;
+	--panel: green;
+	--line: pink;
+	--line-dim: blue;
 	--text: orange;
 	--text-strong: #e4ffe8;
 }
